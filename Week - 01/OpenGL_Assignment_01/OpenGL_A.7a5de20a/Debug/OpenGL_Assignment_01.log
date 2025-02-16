@@ -1,3 +1,9 @@
-﻿  glad.c
-  Main.cpp
+﻿  Main.cpp
+D:\BEUN BUNLEAP\ITE RUPP\YEAR III\Semester II\Computer Graphic\Week - 01\OpenGL_Assignment_01\Main.cpp(26,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\BEUN BUNLEAP\ITE RUPP\YEAR III\Semester II\Computer Graphic\Week - 01\OpenGL_Assignment_01\Main.cpp(27,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\BEUN BUNLEAP\ITE RUPP\YEAR III\Semester II\Computer Graphic\Week - 01\OpenGL_Assignment_01\Main.cpp(27,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\BEUN BUNLEAP\ITE RUPP\YEAR III\Semester II\Computer Graphic\Week - 01\OpenGL_Assignment_01\Main.cpp(53,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\BEUN BUNLEAP\ITE RUPP\YEAR III\Semester II\Computer Graphic\Week - 01\OpenGL_Assignment_01\Main.cpp(53,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\BEUN BUNLEAP\ITE RUPP\YEAR III\Semester II\Computer Graphic\Week - 01\OpenGL_Assignment_01\Main.cpp(53,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\BEUN BUNLEAP\ITE RUPP\YEAR III\Semester II\Computer Graphic\Week - 01\OpenGL_Assignment_01\Main.cpp(54,16): warning C4305: 'argument': truncation from 'double' to 'float'
   OpenGL_Assignment_01.vcxproj -> D:\BEUN BUNLEAP\ITE RUPP\YEAR III\Semester II\Computer Graphic\Week - 01\OpenGL_Assignment_01\Debug\OpenGL_Assignment_01.exe
