@@ -1,0 +1,9 @@
+﻿  glad.c
+  Main.cpp
+Main.obj : error LNK2019: unresolved external symbol __imp_glutMainLoop referenced in function main
+Main.obj : error LNK2019: unresolved external symbol __imp_glutDisplayFunc referenced in function main
+Main.obj : error LNK2019: unresolved external symbol __imp___glutInitWithExit referenced in function glutInit_ATEXIT_HACK
+Main.obj : error LNK2019: unresolved external symbol __imp___glutCreateWindowWithExit referenced in function glutCreateWindow_ATEXIT_HACK
+D:\BEUN BUNLEAP\ITE RUPP\YEAR III\Semester II\Computer Graphic\open_gl\freeglut\lib\freeglut.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\BEUN BUNLEAP\ITE RUPP\YEAR III\Semester II\Computer Graphic\open_gl\glew-1.11.0\lib\glew32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\BEUN BUNLEAP\ITE RUPP\YEAR III\Semester II\Computer Graphic\Week - 01\OpenGL_Assignment_01\x64\Debug\OpenGL_Assignment_01.exe : fatal error LNK1120: 4 unresolved externals
